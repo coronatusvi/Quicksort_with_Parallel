@@ -1,0 +1,6 @@
+SIZE,Program,Threads,Time (seconds)
+100,Sequential,1,2.160629
+100,OpenMP,2,1.447563
+100,Pthreads,2,.083307
+100,MPI,2,1.117198
+500,Sequential,1,2.210200
