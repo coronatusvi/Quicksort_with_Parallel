@@ -1,4 +1,3 @@
-Dưới đây là nội dung file `README.md` cho project của bạn:
 
 ```markdown
 # Parallel QuickSort Project
